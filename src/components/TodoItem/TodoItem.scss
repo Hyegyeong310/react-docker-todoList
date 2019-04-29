@@ -25,7 +25,7 @@
     }
   }
   &:nth-child(odd) {
-    background: &oc-gray-0;
+    background: $oc-gray-0;
   }
   &:hover {
     background: $oc-gray-1;
