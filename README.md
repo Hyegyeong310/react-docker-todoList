@@ -17,8 +17,8 @@
   `docker ps -a`<br>
   `docker ps // 실행 중인 container만 확인`
 
-- docker container 재실행
+- docker container 재실행<br>
   `docker start ${container id} // docker ps -a에서 확인 가능`
 
-- docker container 중단
+- docker container 중단<br>
   `docker stop ${container id}`
